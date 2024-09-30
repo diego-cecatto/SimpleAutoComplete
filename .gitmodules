@@ -1,0 +1,6 @@
+[submodule "SimpleAutoComplete-API"]
+	path = SimpleAutoComplete-API
+	url = https://github.com/diego-cecatto/SimpleAutoComplete-API.git
+[submodule "SimpleAutoComplete-UI"]
+	path = SimpleAutoComplete-UI
+	url = https://github.com/diego-cecatto/SimpleAutoComplete-UI.git
