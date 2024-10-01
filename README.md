@@ -25,13 +25,13 @@ docker-compose up
 On the front end, I built a simple infrastructure using React. here you can see the files and directories:
 
 - src
-  - actions : Actions is a concept of classes that make request with the backend
-  - components: Generic components to entire system
+  - actions : Actions are a concept of classes that handle requests to the backend.
+  - components: Generic components used throughout the entire system.
   - pages : Pages of your website
-  - utils : Utils library
-- vite.config.ts : this is a file to configure vite, vite is more ligther than use react-scripts
-- .env-sample : this is a sample of .env file
-- .prettierrc : this file determine all the formatation of yours code lines.
+  - utils : Utility functions and helpers.
+- vite.config.ts : This file configures Vite. Vite is lighter than using react-scripts.
+- .env-sample : A sample .env file.
+- .prettierrc : This file determines the formatting rules for your code.
 
 ## HOW TO START
 
