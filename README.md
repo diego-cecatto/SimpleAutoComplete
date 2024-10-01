@@ -20,6 +20,12 @@ php artisan db:seed
 docker-compose up
 ```
 
+# Try
+
+```
+curl --location --request GET 'localhost:8080/movies/autocomplete?search=""'
+```
+
 # Front end
 
 On the front end, I built a simple infrastructure using React. here you can see the files and directories:
